@@ -2,11 +2,11 @@
 
 Ori dark:
 
-![](imgs/sample-dark.webp)
+![](imgs/sample-dark.png)
 
 Ori light:
 
-![](imgs/sample-light.webp)
+![](imgs/sample-light.png)
 
 ## Usage
 
