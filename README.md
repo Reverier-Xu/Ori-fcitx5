@@ -22,10 +22,6 @@ paru -S fcitx5-skin-ori-git
 
 This theme is just an attempt to round corners with svg theme. If you want a more adaptable and cooler looking theme for KDE, try [Fluent-fcitx5](https://github.com/Reverier-Xu/Fluent-fcitx5).
 
-### Donate
-
-[aifadian.net](https://afdian.net/a/reverier)
-
 ## LICENSE
 
 Mozilla Public License v2
